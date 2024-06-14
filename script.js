@@ -3,7 +3,7 @@ const hora = document.getElementById("hora")
 const min = document.getElementById("min")
 const seg = document.getElementById("seg")
 
-const lancamento ="25 sep 2024"
+const lancamento ="14 oct 2024"
 
 function CountDow(){
     const dataLanc = new Date(lancamento)
